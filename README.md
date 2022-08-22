@@ -38,3 +38,14 @@ renplot : enables us to understand the relationship between an asteroid’s velo
 
 Dashboard Development 
 
+Screen Shot 1444-01-24 at 8.59.32 AM.png
+Screen Shot 1444-01-24 at 8.55.09 AM.png
+Screen Shot 1444-01-24 at 8.43.13 AM.png
+Screen Shot 1444-01-24 at 8.37.13 AM.png
+Screen Shot 1444-01-24 at 8.30.09 AM.png
+Screen Shot 1444-01-24 at 8.28.47 AM.png
+Screen Shot 1444-01-24 at 8.27.27 AM.png
+Screen Shot 1444-01-24 at 3.10.39 PM.png
+Screen Shot 1444-01-24 at 2.56.41 PM.png
+Screen Shot 1444-01-24 at 2.29.31 PM.png
+Screen Shot 1444-01-24 at 2.28.47 PM.png
